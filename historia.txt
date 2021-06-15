@@ -1,5 +1,7 @@
 Esta es la historia de Acer
 
-Acer es educado
+Acer es educado. Tiene suerte y es un camionero de 66 metros de altura.
+
+Y hace commits
 
 Fin
